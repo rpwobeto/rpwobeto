@@ -1,9 +1,10 @@
 ### Olá 👋 tudo bem? Eu sou o Ricardo Wobeto
-
+- 👩‍💻 Autodidata e apaixonado por desenvolvimento
+- Aberto a novas oportunidades de trabalho!
 - 🔭 Em busca de uma oportunidade como desenvolvedor/programador em .NET(C#) ou Java(IntelliJ/Eclipse)
 - 🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas - ADS na Uninter.
-- 👯 Colaborando e Aprendendo na plataforma da Digital Innovation One.
-- 📫 Como me encontrar: https://www.linkedin.com/in/ricardo-wobeto-8572a7130 
+- 👯 Colaborando e Aprendendo na plataforma da Digital Innovation One: www.digitalinnovation.one
+ 
 <div>
   <a href="https://github.com/rpwobeto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rpwobeto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
