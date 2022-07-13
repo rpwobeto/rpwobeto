@@ -1,8 +1,8 @@
 ### Olá 👋 tudo bem? Eu sou o Ricardo Wobeto
 - 👩‍💻 Autodidata e apaixonado por desenvolvimento
-- 😉 Aberto a novas oportunidades de trabalho!
-- 🔭 Em busca de uma oportunidade como desenvolvedor/programador em .NET(C#) ou Java(IntelliJ/Eclipse)
-- 🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas - ADS/Engenharia de Software na Uninter.
+- 😉 Em aprendizado constante.
+- 🔭 Desenvolvedor/programador Java(IntelliJ/VS Code/STS Tools)
+- 🌱 Graduado em Análise e Desenvolvimento de Sistemas - ADS(Uninter) e estudando Engenharia de Software na Uninter.
 - 👯 Colaborando e Aprendendo na plataforma da Digital Innovation One: www.digitalinnovation.one
  
 <div>
